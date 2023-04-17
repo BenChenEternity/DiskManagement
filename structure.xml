@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NetDisk>
+    <Directory name="test">
+        <Directory name="1">
+            <Directory name="1-1"/>
+            <File name="啊是哒是哒.txt" size="11"/>
+        </Directory>
+        <Directory name="2">
+            <Directory name="2-1"/>
+        </Directory>
+        <Directory name="3">
+            <File name="aaa.bmp" size="0"/>
+        </Directory>
+    </Directory>
+</NetDisk>
