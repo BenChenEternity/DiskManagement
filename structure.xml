@@ -9,7 +9,7 @@
             <Directory name="2-1"/>
         </Directory>
         <Directory name="3">
-            <File name="aaa.bmp" size="8,023,723"/>
+            <File name="aaa.bmp" size="8023723"/>
         </Directory>
     </Directory>
 </NetDisk>
